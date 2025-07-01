@@ -48,7 +48,7 @@ python3 cli.py scan --target 192.168.1.1 --top-ports 1000
     JSON report saved in ./results/report_<timestamp>.json
 
 # Directory Structure
-
+```
 .
 ├── cli.py
 ├── parsing/
@@ -60,7 +60,7 @@ python3 cli.py scan --target 192.168.1.1 --top-ports 1000
 ├── report/
 │   └── report.py
 └── results/
-
+```
 # Notes
 
     CVE results are based on basic keyword search using product and version. Manual verification is recommended.
