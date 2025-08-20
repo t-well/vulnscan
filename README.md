@@ -66,8 +66,3 @@ python3 cli.py scan --target 192.168.1.1 --top-ports 1000
     CVE results are based on basic keyword search using product and version. Manual verification is recommended.
 
     Only top 5 CVEs per service are returned for brevity.
-
-
----
-
-Let me know if you want to add a license, contribution guidelines, or install via `pip`/Makefile.
